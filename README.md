@@ -16,6 +16,7 @@ The model is trained to classify images into 10 categories such as airplanes, ca
 
   * Airplane, Automobile, Bird, Cat, Deer
   * Dog, Frog, Horse, Ship, Truck
+* Dataset will be automatically downloaded when running the code.
 
 ---
 
